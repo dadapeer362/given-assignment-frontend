@@ -1,0 +1,58 @@
+.home-container {
+  padding: 40px;
+  background-image: url("https://assets.ccbp.in/frontend/react-js/home-lg-bg.png");
+  flex-grow: 1;
+  height: 100%;
+  background-size: cover;
+}
+
+.home-upload-heading {
+  margin-top: 150px;
+  color: #ffffff;
+  font-family: "Roboto";
+  font-size: 50px;
+}
+
+.home-upload-paragraph {
+  color: #ffffff;
+  font-family: "Roboto";
+  font-size: 25px;
+  width: 50%;
+}
+
+.home-upload-button {
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 20px;
+  background-color: transparent;
+  color: #ffffff;
+}
+
+.save-button {
+  color: #ffffff;
+  background-color: rgb(2, 187, 2);
+  border: 0;
+  border-radius: 5px;
+  width: 150px;
+  font-weight: bold;
+  font-size: 20px;
+  font-family: "Roboto";
+  padding: 5px;
+  height: 40px;
+  cursor: pointer;
+}
+
+.users-ul-container {
+  list-style: none;
+  padding: 0;
+  color: #ffffff;
+  font-family: "Roboto";
+  margin-top: 200px;
+}
+
+.users-li-container {
+  background-color: rgb(65, 63, 63);
+  border-radius: 10px;
+  margin: 20px;
+  padding: 10px;
+}
